@@ -1,0 +1,6 @@
+.idea
+build/*
+run/*
+.DS_Store
+*.exe
+.bin
